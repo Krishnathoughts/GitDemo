@@ -1,0 +1,6 @@
+10:27:54.281 [TestNG-tests-1] INFO  SeleniumEasy.AdditionTest - Verify whether the message is as expected
+10:29:28.519 [TestNG-tests-1] INFO  SeleniumEasy.AdditionTest - Browser is opened
+10:29:28.597 [TestNG-tests-1] DEBUG SeleniumEasy.AdditionTest - Input form is clicked
+10:29:28.675 [TestNG-tests-1] WARN  SeleniumEasy.AdditionTest - Navigating to new page
+10:29:28.675 [TestNG-tests-1] FATAL SeleniumEasy.AdditionTest - New page is loading
+10:29:28.675 [TestNG-tests-1] ERROR SeleniumEasy.AdditionTest - Please wait

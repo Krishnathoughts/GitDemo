@@ -1,0 +1,7 @@
+15:57:18.842 [main] DEBUG SeleniumEasy.AdditionTest - Input form is clicked
+15:57:18.917 [main] WARN  SeleniumEasy.AdditionTest - Navigating to new page
+15:57:18.917 [main] FATAL SeleniumEasy.AdditionTest - New page is loading
+15:57:18.918 [main] ERROR SeleniumEasy.AdditionTest - Please wait
+15:58:39.523 [main] INFO  SeleniumEasy.AdditionTest - Browser is opened
+15:58:39.629 [main] DEBUG SeleniumEasy.AdditionTest - Input form is clicked
+15:58:39.753 [main] WARN  SeleniumEasy.AdditionTest - Navigating to new page

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84281" started-at="2020-05-26T10:33:05 IST" finished-at="2020-05-26T10:34:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84281" started-at="2020-05-26T10:33:05 IST" finished-at="2020-05-26T10:34:29 IST">
+      <class name="SeleniumEasy.SinglecheckboxTest">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:SeleniumEasy.SinglecheckboxTest@2c7b5824]" name="launchbrowser" is-config="true" duration-ms="17518" started-at="2020-05-26T10:33:05 IST" finished-at="2020-05-26T10:33:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="Singlecheckboxform()[pri:0, instance:SeleniumEasy.SinglecheckboxTest@2c7b5824]" name="Singlecheckboxform" duration-ms="349" started-at="2020-05-26T10:33:22 IST" finished-at="2020-05-26T10:33:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Singlecheckboxform -->
+        <test-method status="PASS" signature="multiplecheckbox()[pri:0, instance:SeleniumEasy.SinglecheckboxTest@2c7b5824]" name="multiplecheckbox" duration-ms="65252" started-at="2020-05-26T10:33:23 IST" finished-at="2020-05-26T10:34:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplecheckbox -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:SeleniumEasy.SinglecheckboxTest@2c7b5824]" name="closebrowser" is-config="true" duration-ms="689" started-at="2020-05-26T10:34:28 IST" finished-at="2020-05-26T10:34:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- SeleniumEasy.SinglecheckboxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

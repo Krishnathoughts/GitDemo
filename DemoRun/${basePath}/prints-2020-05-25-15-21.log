@@ -1,0 +1,6 @@
+15:20:48.869 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - The browser is opened succesfully
+15:20:59.188 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - The pop will be closed
+15:20:59.314 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - The pop is closed succesfully
+15:20:59.449 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - Input Forms is selected
+15:21:12.306 [main] INFO  SeleniumEasy.AdditionTest - Browser is opened
+15:21:12.415 [main] DEBUG SeleniumEasy.AdditionTest - Input form is clicked

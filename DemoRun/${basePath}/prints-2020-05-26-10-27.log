@@ -1,0 +1,6 @@
+10:27:41.288 [TestNG-tests-1] INFO  SeleniumEasy.SinglecheckboxTest - The browser is opened succesfully
+10:27:50.630 [TestNG-tests-1] INFO  SeleniumEasy.SinglecheckboxTest - The pop will be closed
+10:27:50.970 [TestNG-tests-1] INFO  SeleniumEasy.SinglecheckboxTest - The pop is closed succesfully
+10:27:51.071 [TestNG-tests-1] INFO  SeleniumEasy.SinglecheckboxTest - Input Forms is selected
+10:27:52.253 [TestNG-tests-1] INFO  SeleniumEasy.SinglecheckboxTest - Success - Check box is checked
+10:27:53.901 [TestNG-tests-1] INFO  SeleniumEasy.AdditionTest - Enter the message

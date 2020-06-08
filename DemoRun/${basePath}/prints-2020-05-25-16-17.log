@@ -1,0 +1,6 @@
+16:12:03.564 [main] INFO  SeleniumEasy.SinglecheckboxTest - Success - Check box is checked
+16:14:44.964 [main] INFO  SeleniumEasy.SinglecheckboxTest - The browser is opened succesfully
+16:14:55.098 [main] INFO  SeleniumEasy.SinglecheckboxTest - The pop will be closed
+16:14:55.267 [main] INFO  SeleniumEasy.SinglecheckboxTest - The pop is closed succesfully
+16:14:55.438 [main] INFO  SeleniumEasy.SinglecheckboxTest - Input Forms is selected
+16:14:56.443 [main] INFO  SeleniumEasy.SinglecheckboxTest - Success - Check box is checked

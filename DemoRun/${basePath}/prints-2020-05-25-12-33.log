@@ -1,0 +1,6 @@
+12:33:16.949 [main] INFO  SeleniumEasy.MessageverifyTest - The pop is closed succesfully
+12:33:17.269 [main] INFO  SeleniumEasy.MessageverifyTest - Input Forms is selected
+12:33:18.392 [main] INFO  SeleniumEasy.MessageverifyTest - Enter the message
+12:33:19.012 [main] INFO  SeleniumEasy.MessageverifyTest - Verify whether the message is as expected
+12:33:26.429 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - The browser is opened succesfully
+12:33:43.443 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - The pop will be closed

@@ -1,0 +1,7 @@
+12:33:43.693 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - The pop is closed succesfully
+12:33:43.943 [main] INFO  SeleniumEasy.MultipleCheckBoxTest - Input Forms is selected
+12:34:01.527 [main] INFO  SeleniumEasy.AdditionTest - Browser is opened
+12:34:01.843 [main] DEBUG SeleniumEasy.AdditionTest - Input form is clicked
+12:34:02.144 [main] WARN  SeleniumEasy.AdditionTest - Navigating to new page
+12:34:02.144 [main] FATAL SeleniumEasy.AdditionTest - New page is loading
+12:34:02.144 [main] ERROR SeleniumEasy.AdditionTest - Please wait

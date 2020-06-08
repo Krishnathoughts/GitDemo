@@ -1,0 +1,7 @@
+10:39:21.606 [main] INFO  SeleniumEasy.SinglecheckboxTest - The browser is opened succesfully
+10:40:38.315 [main] INFO  SeleniumEasy.AdditionTest - Browser is opened
+10:40:38.418 [main] DEBUG SeleniumEasy.AdditionTest - Input form is clicked
+10:40:38.467 [main] WARN  SeleniumEasy.AdditionTest - Navigating to new page
+10:40:38.467 [main] FATAL SeleniumEasy.AdditionTest - New page is loading
+10:40:38.467 [main] ERROR SeleniumEasy.AdditionTest - Please wait
+10:40:43.517 [main] INFO  SeleniumEasy.SinglecheckboxTest - The browser is opened succesfully

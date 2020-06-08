@@ -1,0 +1,7 @@
+15:58:39.753 [main] FATAL SeleniumEasy.AdditionTest - New page is loading
+15:58:39.786 [main] ERROR SeleniumEasy.AdditionTest - Please wait
+15:58:41.026 [main] INFO  SeleniumEasy.AdditionTest - Enter the message
+15:58:41.398 [main] INFO  SeleniumEasy.AdditionTest - Verify whether the message is as expected
+16:01:19.275 [main] INFO  SeleniumEasy.SinglecheckboxTest - The browser is opened succesfully
+16:01:31.016 [main] INFO  SeleniumEasy.SinglecheckboxTest - The pop will be closed
+16:01:31.133 [main] INFO  SeleniumEasy.SinglecheckboxTest - The pop is closed succesfully

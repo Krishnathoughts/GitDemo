@@ -1,0 +1,7 @@
+10:36:38.296 [main] INFO  SeleniumEasy.AdditionTest - Enter the message
+10:36:43.679 [main] INFO  SeleniumEasy.AdditionTest - Verify whether the message is as expected
+10:39:16.143 [main] INFO  SeleniumEasy.AdditionTest - Browser is opened
+10:39:16.238 [main] DEBUG SeleniumEasy.AdditionTest - Input form is clicked
+10:39:16.310 [main] WARN  SeleniumEasy.AdditionTest - Navigating to new page
+10:39:16.310 [main] FATAL SeleniumEasy.AdditionTest - New page is loading
+10:39:16.310 [main] ERROR SeleniumEasy.AdditionTest - Please wait

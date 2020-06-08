@@ -1,0 +1,7 @@
+11:27:47.956 [main] INFO  SeleniumEasy.AdditionTest - Browser is opened
+11:27:48.314 [main] DEBUG SeleniumEasy.AdditionTest - Input form is clicked
+11:27:48.586 [main] WARN  SeleniumEasy.AdditionTest - Navigating to new page
+11:27:48.586 [main] FATAL SeleniumEasy.AdditionTest - New page is loading
+11:27:48.587 [main] ERROR SeleniumEasy.AdditionTest - Please wait
+11:27:55.471 [main] INFO  SeleniumEasy.SinglecheckboxTest - The browser is opened succesfully
+11:28:03.944 [main] INFO  SeleniumEasy.SinglecheckboxTest - The pop will be closed

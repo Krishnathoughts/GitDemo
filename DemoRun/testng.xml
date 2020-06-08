@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="resources.Listeners"/>
+</listeners>
+	<test name="ValidatingSingeleBox">
+		<classes>
+			<class name="SeleniumEasy.SinglecheckboxTest" />
+		</classes>
+	</test>
+	<test name="Validating Messenger">
+		<classes>
+			<class name="SeleniumEasy.MessageverifyTest" />
+		</classes>
+	</test>
+	<test name="Validating MultipleCheckBox">
+		<classes>
+			<class name="SeleniumEasy.MultipleCheckBoxTest" />
+		</classes>
+	</test>
+	<test name="Validating Addition">
+		<classes>
+			<class name="SeleniumEasy.AdditionTest" />
+		</classes>
+	</test>
+	</suite> 

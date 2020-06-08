@@ -1,0 +1,6 @@
+15:20:32.438 [main] INFO  SeleniumEasy.MessageverifyTest - The browser is opened succesfully
+15:20:37.990 [main] INFO  SeleniumEasy.MessageverifyTest - The pop will be closed
+15:20:38.194 [main] INFO  SeleniumEasy.MessageverifyTest - The pop is closed succesfully
+15:20:38.291 [main] INFO  SeleniumEasy.MessageverifyTest - Input Forms is selected
+15:20:38.794 [main] INFO  SeleniumEasy.MessageverifyTest - Enter the message
+15:20:39.189 [main] INFO  SeleniumEasy.MessageverifyTest - Verify whether the message is as expected
